@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/whjbpyplhyokolwy?svg=true)](https://ci.appveyor.com/project/JuliaSiberia/test-mode)
